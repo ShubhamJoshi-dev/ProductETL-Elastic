@@ -1,1 +1,1 @@
-console.log("testing the typescript application");
+console.log("hello world");
